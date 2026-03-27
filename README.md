@@ -11,11 +11,8 @@
 
 ---
 
-**GitHub Tags (Add these to your repo settings!):**
-`ai-agent` `llm` `mcp` `gmail-api` `google-calendar` `automation` `python` `agentic-workflow` `rag` `chromadb` `fastapi` `streamlit` `telegram-bot` `llama3` `groq` `email-manager` `scheduling-assistant`
 
-**Repo 'About' Section (Copy & Paste):**
-An autonomous AI agent using Llama-3, MCP, and RAG to intelligently classify emails, resolve schedule conflicts, and manage your inbox via Telegram & Streamlit.
+
 
 </div>
 
