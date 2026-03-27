@@ -1,0 +1,26 @@
+# Python envs
+venv/
+venv313/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets and Config
+credentials.json
+token.json
+.env
+
+# Database and Data
+ghost_email.db
+chroma_db/
+data/
+logs/
+
+# Streamlit
+.streamlit/
+*.log
+
+# OS Specific
+.DS_Store
+Thumbs.db
